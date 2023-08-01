@@ -1,0 +1,43 @@
+.body-blog{
+	margin-left: 400px;
+	margin-right: 350px;
+	margin-top: 50px;
+	margin-bottom: 100px;
+}
+
+.body-blog .blog-header h2{
+	font-size: 44px;
+	padding-bottom: 10px;
+}
+
+.body-blog .text-content p{
+	font-size: 22px;
+}
+
+.body-blog .img img{
+	margin-right: 250px;
+	margin-left: 250px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.body-blog .img .img1{
+	width: 350px;
+	height: 450px;
+}
+
+.body-blog .img .img2{
+	width: 600px;
+	height: 450px;
+	margin-left: 100px;
+}
+
+.body-blog .img .img3{
+	width: 800px;
+	height: 550px;
+	margin-left: 0px;
+}
+
+.blogs .name{
+	padding-bottom: 40px;
+}

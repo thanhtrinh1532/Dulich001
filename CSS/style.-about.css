@@ -1,0 +1,24 @@
+.home .name-top h1{
+  text-align: center;
+  font-size: 24px;
+  color: #ffff;
+  overflow-inline: hidden;
+}
+
+.swiper-slide-active .text-content .name-top{
+  transform: translateY(0);
+  opacity: 1;
+  transition: 1s ease;
+  transition-delay: 0.3s;
+  transition-property: transform, opacity;
+}
+
+.swiper-slide .text-content .name-top h1{
+  font-size: 0.3em;
+  font-weight: 300;
+}
+
+.about .about-content .content{
+  padding-right: 50px;
+}
+
